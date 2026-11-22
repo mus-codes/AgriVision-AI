@@ -1,0 +1,35 @@
+﻿# Python environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Testing and inspection scripts
+test_*.py
+inspect_*.py
+create_disease_database.py
+
+# Asset downloader (model weights are included directly)
+download_assets.py
+
+# Datasets and temporary files
+datasets/
+data/
+temp/
+tmp/
+*.log
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
