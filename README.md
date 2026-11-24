@@ -1,5 +1,9 @@
 ﻿# AgriVision AI
-
+<p align="center">
+  <a href="https://agrivision--ai.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Launch_AgriVision_AI-2E8B57?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
 An AI-powered plant disease screening application that analyzes leaf images to identify potential plant diseases.
 
 ## Features
