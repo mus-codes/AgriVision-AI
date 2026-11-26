@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://agrivision--ai.streamlit.app/"><strong>🚀 Live Application</strong></a> •
-  <a href="https://github.com/mus-codes/AgriVision-AI"><strong>💻 GitHub Repository</strong></a>
 </p>
 
 ---
@@ -531,4 +530,4 @@ Overall, AgriVision AI demonstrates the practical application of modern deep lea
   <strong>🌱 AgriVision AI — Making Plant Disease Screening Smarter Through Artificial Intelligence.</strong>
 </p>
 
-**Developed as an academic AI/ML project.**
+**Developed as an academic AI project.**
